@@ -71,7 +71,7 @@ void find_max_flow() {
 }
 
 int main() {
-  freopen("sample_input.txt", "r", stdin);
+  freopen("sample_input_edmonds_karp.txt", "r", stdin);
 
   cin >> N >> M;
 
